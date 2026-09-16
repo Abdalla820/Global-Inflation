@@ -306,13 +306,6 @@ This project demonstrates how data analysis can be used to discover trends, comp
 
 ---
 
-## 👩‍💻 Author
-
-**Sara**
-
-Data Analyst | Data Analysis & Visualization
-
----
 
 ## 📚 Data Source
 
